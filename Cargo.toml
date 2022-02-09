@@ -1,0 +1,11 @@
+[package]
+name = "glyph"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+vulkano = "0.28.0"
+vulkano-win = "0.28.0"
+winit = "0.26.1"
+
+[features]
