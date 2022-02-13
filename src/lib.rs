@@ -1,4 +1,4 @@
-pub mod glyph {
-    pub mod init;
-    pub mod window;
-}
+
+pub mod init;
+pub mod window;
+
